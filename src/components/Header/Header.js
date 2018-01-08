@@ -8,13 +8,13 @@ class Header extends Component {
             <h1 className="Header__logo">movie mate</h1>
             <ul className="Navigation">
                 <li className="Navigation__item">
-                    <a className="Navigation__link" href="">Login</a>
+                    <a className="Navigation__link" href="{javascript.void(0)}">Login</a>
                 </li>
                 <li className="Navigation__item">
-                    <a className="Navigation__link" href="">Browse</a>
+                    <a className="Navigation__link" href="{javascript.void(0)}">Browse</a>
                 </li>
                 <li className="Navigation__item">  
-                    <a className="Navigation__link" href="">Login</a>          
+                    <a className="Navigation__link" href="{javascript.void(0)}">Login</a>          
                 </li>
             </ul>
         </header>
